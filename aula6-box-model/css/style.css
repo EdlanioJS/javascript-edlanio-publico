@@ -1,0 +1,9 @@
+a {
+  background: #ddd;
+  padding: 10px;
+  display: block;
+}
+.inlineblock {
+  display: inline-block; 
+  margin: 10px;
+}
